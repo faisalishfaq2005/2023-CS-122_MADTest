@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Smart Event Manager</string>
+    <string name="splash_welcome">Welcome to the Event Management App</string>
+
+    <string name="home_title">Welcome, Event Enthusiast</string>
+    <string name="home_subtitle">Plan, register, and attend events from one stylish place.</string>
+    <string name="home_description">Discover seminars, workshops, conferences, and cultural gatherings with a smooth registration flow designed for speed and clarity.</string>
+    <string name="register_for_event">Register for Event</string>
+    <string name="home_event_image">Event banner image</string>
+
+    <string name="registration_title">Event Registration</string>
+    <string name="registration_subtitle">Fill in your details to reserve your event spot.</string>
+    <string name="full_name">Participant Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="select_event_type">Select Event Type</string>
+    <string name="select_event_date">Select Event Date</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="selected_image_preview">Selected image preview</string>
+    <string name="choose_image">Choose Profile/Event Image</string>
+    <string name="accept_terms">I accept the Terms and Conditions</string>
+    <string name="submit_registration">Submit Registration</string>
+
+    <string name="error_full_name">Please enter at least 3 characters for full name.</string>
+    <string name="error_phone">Please enter a valid phone number (10 to 15 digits).</string>
+    <string name="error_email">Please enter a valid email address.</string>
+    <string name="error_event_type">Please select an event type.</string>
+    <string name="error_date">Please choose an event date.</string>
+    <string name="error_gender">Please select your gender.</string>
+    <string name="error_image">Please choose an image.</string>
+    <string name="error_terms">Please accept the terms and conditions.</string>
+
+    <string name="confirm_title">Confirm Submission</string>
+    <string name="confirm_message">Are you sure you want to submit this registration?</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="confirmation_title">Registration Confirmed</string>
+    <string name="success_message">Your event registration has been submitted successfully.</string>
+    <string name="register_another">Register Another Event</string>
+</resources>

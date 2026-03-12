@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_dark_start">#090B14</color>
+    <color name="bg_dark_end">#161A2D</color>
+    <color name="surface_dark">#171F33</color>
+    <color name="surface_dark_alt">#1F2942</color>
+    <color name="surface_stroke">#324267</color>
+
+    <color name="accent">#7C4DFF</color>
+    <color name="accent_secondary">#03DAC5</color>
+
+    <color name="text_primary">#F5F7FF</color>
+    <color name="text_secondary">#B5BFDA</color>
+    <color name="success">#61E7A6</color>
+</resources>

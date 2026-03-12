@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_type_options">
+        <item>Select Event Type</item>
+        <item>Seminar</item>
+        <item>Workshop</item>
+        <item>Conference</item>
+        <item>Webinar</item>
+        <item>Cultural Event</item>
+    </string-array>
+</resources>
+
